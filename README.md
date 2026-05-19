@@ -21,4 +21,4 @@ The landing page was built entirely from scratch to ensure maximum performance a
 
 ## 👨🏾‍💻 Author
 **Saheed Hassan**
-* [LinkedIn](Insert-Your-LinkedIn-Link-Here)
+* [LinkedIn](www.linkedin.com/in/saheed-hassan)
