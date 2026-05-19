@@ -2,7 +2,7 @@
 
 A comprehensive, beginner-friendly guide covering the essential basics of Excel, SQL, and Python. This repository contains both the source code for the landing page and the raw content for the eBook.
 
-**🔗 [View the Live Site & Download the eBook Here](Insert-Your-Live-Link-Here)**
+**🔗 [View the Live Site & Download the eBook Here]()**
 
 ## 🚀 About the Project
 I built this project to help beginners figure out exactly where to start their data journey. It breaks down the three foundational pillars of data analysis into digestible, easy-to-understand chapters complete with practical exercises.
